@@ -9,14 +9,14 @@
         android:roundIcon="@drawable/splash"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".splashActivity" android:theme="@style/FullScreen">
-
+        <activity
+            android:name=".splashActivity"
+            android:theme="@style/FullScreen">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-
         </activity>
 
         <activity
@@ -27,6 +27,11 @@
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+
+        </activity>
+
+        <activity android:name=".menuActivity">
+
         </activity>
     </application>
 
