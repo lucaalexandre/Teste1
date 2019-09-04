@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Heart-Rate-Ometer</string>
+    <string name="title" translatable="false">PQA Security</string>
+    <string name="dica">CPF</string>
+    <string name="cpf">Enter your CPF below</string>
+    <string name="text_Sw">Remember CPF</string>
+    <string name="Entrar">Sing in</string>
+    <string name="Digital">Use Fingerprint</string>
+    <string name="Oximetria">Oximeter</string>
+    <string name="fingerprint">Place your finger on the biometric reader</string>
+    <string name="info">Fingerprint Authentication</string>
+    <string name="Ola">Hello client Santander, welcome!!</string>
+    <string name="authenticate">Authenticate</string>
+</resources>
